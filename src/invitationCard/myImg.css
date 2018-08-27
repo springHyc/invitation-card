@@ -1,0 +1,12 @@
+.img_container {
+  width: 170px;
+  /* height: 170px; */
+  border-radius: 10px;
+}
+
+.img {
+  width: 165px;
+  border-radius: 10px;
+  -moz-box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #888888;
+}
